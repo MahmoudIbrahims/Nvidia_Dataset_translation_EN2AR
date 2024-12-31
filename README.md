@@ -7,4 +7,4 @@
 
 ###  Nvidia Datasets helpsteer2 : [nvidia/HelpSteer2](https://huggingface.co/datasets/nvidia/HelpSteer2) 
 
-### This is dataset used pretraind model is : [nvidia/Llama-3.1-Nemotron-70B-Instruct-HF ](https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF)
+### This is dataset used pre_traind model is : [nvidia/Llama-3.1-Nemotron-70B-Instruct-HF ](https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF)
