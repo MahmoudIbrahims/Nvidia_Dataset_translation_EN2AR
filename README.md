@@ -1,7 +1,7 @@
 
 
 
-## This miniproject translation Datasets .
+## This is miniproject translation Datasets .
 
 ### This is dataset in huggingface : [MahmoudIbrahim/Arabic_NVIDIA](https://huggingface.co/datasets/MahmoudIbrahim/Arabic_NVIDIA)
 
